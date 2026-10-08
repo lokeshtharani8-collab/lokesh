@@ -1,0 +1,6 @@
+{
+  "name": "WATCH-MART Project Report Abstract",
+  "description": "Academic project report abstract and documentation for WATCH-MART: Branded Watch E-Commerce Platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
